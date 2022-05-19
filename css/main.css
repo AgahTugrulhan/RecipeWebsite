@@ -639,6 +639,7 @@ Tags Page
   text-align: center;
   transition: var(--transition);
   padding: 0.75rem 0;
+  color: var(--grey-900);
 }
 
 .tag:hover{
