@@ -637,7 +637,6 @@ Tags Page
   background: var(--grey-500);
   border-radius: var(--borderRadius);
   text-align: center;
-  color: var(--white);
   transition: var(--transition);
   padding: 0.75rem 0;
 }
